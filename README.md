@@ -36,8 +36,8 @@ Stop MongoDB
 
 Next take a copy of the project
 
-    git clone https://github.com/minkhati/grapeapi-mongodb.git
-    cd grapeapi-mongodb/
+    git clone https://github.com/minkhati/timecardapi.git
+    cd timecardapi/
 
 Install dependencies
 
